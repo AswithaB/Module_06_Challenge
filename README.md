@@ -48,11 +48,11 @@ An example of what this looks like can be seen below in Figures 1 and 2:
 
 Figure 1: Vacation_Search Overview Map
 
-![Figure 1](Vacation_Search/vacation_search_overview_map.png "Figure 1")
+![Figure 1](https://github.com/AswithaB/Module_06_Challenge/blob/main/Vacation_Search/vacation_search_overview_map.png)
 
 Figure 2: Clicked Markers Example
 
-![Figure 2](Vacation_Search/WeatherPy_vacation_map.png "Figure 2")
+![Figure 2](https://github.com/AswithaB/Module_06_Challenge/blob/main/Vacation_Search/WeatherPy_vacation_map.png)
 
 
 ## 3. Travel Itinerary Map (Vacation_Itinerary)
