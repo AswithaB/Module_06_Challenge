@@ -63,7 +63,7 @@ With these 4 locations as inputs, the Google Maps Directions API is consulted to
 
 Figure 3: Example Driving Loop
 
-![Figure 3](Vacation_Itinerary/WeatherPy_travel_map.png "Figure 3")
+![Travel Itinerary Map](https://github.com/AswithaB/Module_06_Challenge/blob/main/Vacation_Itinerary/WeatherPy_travel_map.png)
 
 While on their journey, if a customer desires to re-check the Hotel or Weather Conditions for any of their 4 waypoints, there is an additional map they can consult, as can be seen below in Figure 4.
 
