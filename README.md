@@ -71,7 +71,3 @@ Figure 4: Waypoint Hotel and Weather Information
 
 ![Figure 4](https://github.com/AswithaB/Module_06_Challenge/blob/main/Vacation_Itinerary/WeatherPy_travel_map_markers.png)
 
-## Moving Forward
-
-The PlanMyTrip App is still in development. One suggestion to modify the internal algorithm is to perform the Google Places API Hotel Search *before* filtering by Temperature Range. This will result in a higher number of API Requests initially, but the results can be stored locally in memory and re-filtered according to any updated user-specified Temperature Ranges.
-
